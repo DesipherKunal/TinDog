@@ -1,2 +1,3 @@
-# TinDog
-It's like Tinder but it's for Dogs That's why it's Tindog
+This website is creted for design Website like Tinder so 
+
+It's just a design but soon i will add some other things to it
