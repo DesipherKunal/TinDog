@@ -161,9 +161,10 @@ p {
 }
 
 /* Pricing section */
-#pricing {
+
+/* #pricing {
   padding: 100px;
-}
+} */
 
 .pricing-column {
   padding: 3% 2%;
@@ -192,7 +193,31 @@ p {
 
 /* Media Query */
 @media (max-width: 1028px) {
-  #title {
+
+
+  .mobile-heading{
+    font-size: 2rem;
+  }
+
+  .mobile-button{
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+  }
+
+  .mobile-text{
+    font-size: 1rem;
+  }
+
+  .container-fluid {
+    padding: 7% 7%;
+  }
+
+
+
+
+
+
+  #title .container-fluid {
     text-align: center;
   }
 
